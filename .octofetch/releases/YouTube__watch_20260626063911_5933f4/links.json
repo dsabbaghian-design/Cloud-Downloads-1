@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3375",
+  "folder": "YouTube__watch_20260626063911_5933f4",
+  "base_name": "MINEL_Reza_Sadeghi_Cover_(Official_Audio)_tVhQLEb3BgA_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/dsabbaghian-design/Cloud-Downloads-1/releases/tag/co-releases-v1-3375",
+  "files": [
+    {
+      "name": "MINEL_Reza_Sadeghi_Cover_.Official_Audio._tVhQLEb3BgA_1080p.mp4",
+      "url": "https://github.com/dsabbaghian-design/Cloud-Downloads-1/releases/download/co-releases-v1-3375/MINEL_Reza_Sadeghi_Cover_.Official_Audio._tVhQLEb3BgA_1080p.mp4",
+      "api_url": "https://api.github.com/repos/dsabbaghian-design/Cloud-Downloads-1/releases/assets/458382716",
+      "id": 458382716,
+      "size": 26721477,
+      "download_count": 0
+    }
+  ]
+}
